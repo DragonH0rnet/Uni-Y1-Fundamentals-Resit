@@ -8,13 +8,15 @@
 
 **Total Word Count:** \1876
 
-**Documentation Link:** \[URL]
+**Documentation Link:** \(https://github.com/DragonH0rnet/Uni-Y1-Fundamentals-Resit/tree/main/Code%20Commentary%20and%20Documentation)
 
 **Repository Link:** \(https://github.com/DragonH0rnet/Uni-Y1-Fundamentals-Resit)
 
-**Build Link:** \[URL or Embed]
+**Build Link:** \https://dragonh0rnet.itch.io/egg-incubation-management
 
-**Video Demonstration Link:** \[URL or Embed]
+**Video Demonstration Link:** 
+
+<video src="Gameplay Video.mp4" width="640" height="480" controls></video>
 
 ---
 
@@ -754,13 +756,6 @@ There were quite a few bugs, but in most cases they were easy fixes. I'd say the
 
 ### What testing methods did you use?
 
-* Did you conduct internal testing, peer testing, or user testing?
-* What were your key goals in testing?
-* What did you observe or learn from testing?
-* How did testing influence the final result?
-
-You may include screenshots, graphs, tables, or embedded videos to demonstrate tests and results.
-
 I mostly tested to look for technical errors, running the program and trying several things in relation to the recently modified or added function. So I mostly used internal testing of the functionality. This testing allowed me to solve and discover many technical issues. For example, one test of the egg creation system inadverdantly lead me to discover a bug where mutiple eggs could be picked up at once and placed in the same slot. This wasn't noticed before since the code worked with the single test egg before. Thus the test lead to a more robust system that solved these issues and provided more safety from edge case bugs from occuring
 
 ---
@@ -769,13 +764,13 @@ I mostly tested to look for technical errors, running the program and trying sev
 
 ### What went well?
 
-* What strengths or successes stood out in the final piece?
-* Did anything exceed expectations?
+I believe I made the game pretty well, all the core functions were there and there seems to not be any bugs I am aware of so far. The gameplay is simple and repetitive but that makes it easy to play and doesn't detract from the experience.
+What did go unexpectedly well was the egg turning. Originally, I added code which I thought would take the current rotation, for example 90, and then rotate it the other way by that amount so the egg would be at 0 degrees once removed from the turning machine. For example, 90 degrees rotated by 90 * -1 which means it's rotated by -90 which is 0. But the way I did it somehow made it a smooth rotation back to being upright instead of the instant snap upright I intended. I'm not 100% sure how it works exactly although I generally do but it basically added a nice visual feature unintentionally.
 
 ### What could be improved or done differently next time?
 
-* Were there things that didn’t work? Why?
-* What would you try differently with more time or resources?
+I could have tried to improve the games graphics slightly but that isn't terribly important.
+I would like to make the eggs start to appear more frequently as time goes on or reduce the spawn cooldown as at the moment there's only 2 eggs at any time if you do well, and it's not terribly hard
 
 ---
 
