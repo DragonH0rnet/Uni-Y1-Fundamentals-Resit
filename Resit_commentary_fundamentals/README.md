@@ -6,7 +6,7 @@
 
 **Student ID:** \2403782
 
-**Total Word Count:** \[XXXX]
+**Total Word Count:** \1876
 
 **Documentation Link:** \[URL]
 
@@ -781,11 +781,10 @@ I mostly tested to look for technical errors, running the program and trying sev
 
 ## Bibliography
 
-Please use [UCA's Harvard Referencing Format](https://mylibrary.uca.ac.uk/referencing) for all citations.
-
-Example:
-
-> Rollings, A. and Adams, E. (2003) *Andrew Rollings and Ernest Adams on Game Design*. New Riders Publishing.
+Unity Learn (s.d.) At: https://learn.unity.com (Accessed  22/07/2025).
+How to convert the mouse position to world space in Unity (2022) At: https://www.youtube.com/watch?v=5NTmxDSKj-Q (Accessed  21/07/2025).
+Setting Up an Incubator for a Successful Hatch (2020) At: https://poultrykeeper.com/incubation-brooding/setting-up-incubator/ (Accessed  20/07/2025).
+Technologies, U. (s.d.) Unity - Scripting API: MonoBehaviour.OnMouseOver(). At: https://docs.unity3d.com/6000.1/Documentation/ScriptReference/MonoBehaviour.OnMouseOver.html (Accessed  21/07/2025).
 
 ---
 
@@ -793,26 +792,6 @@ Example:
 
 You must declare any content that was **not entirely created by you**, or was **modified with the aid of AI tools**. This includes:
 
-* Third-party 3D models, audio, textures, or code
-* Code snippets from tutorials or forums
-* AI-generated or AI-assisted assets (e.g. ChatGPT, GitHub Copilot, DALL·E)
-
-List these clearly, with context where needed.
-
-Example:
-
-> The following assets were created or modified with the use of GPT-4o:
->
-> * `Test.cs` – generated structure with manual revision
-> * `UIAudioManager.cs` – refactored with Copilot suggestions
-> * `DevelopmentJournal.html` – generated layout and headings
+All content in this project was produced solely by me. AI was used in the creative process in the form of Google's AI overview to assist in research but did not directly provide any of the content in this project.
 
 ---
-
-## Tips for Success
-
-* Use plenty of **images, code snippets, drawn diagrams, tables and embedded media** to support your writing.
-* Use **inline citations** for everything that influenced your work, including software and games. Include as many **hyperlinks** as possible for easier navigation to external sources.
-* Reference **documentation, tutorials**, and **games** just like academic sources.
-* Word count is a guideline – ±10% is allowed.
-* You are allowed to use AI tools, but you **must declare** them under *Declared Assets*.
